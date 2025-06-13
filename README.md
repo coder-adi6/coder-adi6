@@ -43,7 +43,7 @@ I'm a passionate full-stack developer who enjoys turning complex problems into s
 
 | Name | Description | Stack |
 |------|-------------|-------|
-| [🎨 Portfolio Site](https://github.com/coder-adi6/portfolio-site) | Personal portfolio showcasing my dev journey. | React, Tailwind, Vite |
+| [🎨 Portfolio Site](https://coder-adi6.github.io/Portfolio/) | Personal portfolio showcasing my dev journey. | React, Tailwind, Vite |
 
 ---
 
