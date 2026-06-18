@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aditya 👋</h1>
 
 <p align="center">
-  <b>Software Developer</b> &nbsp;·&nbsp; <b>Full-Stack & AI/ML</b> &nbsp;·&nbsp; <b>Final Year CS @ MRCE Hyderabad</b>
+  <b>Software Developer</b> &nbsp;·&nbsp; <b>Full-Stack & AI/ML</b> &nbsp;·&nbsp; <b>Final Year CS Student</b>
 </p>
 
 <p align="center">
