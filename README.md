@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20·%20Full-Stack%20&%20AI/ML%20·%20Final%20Year%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20·%20Full-Stack%20&%20AI/ML%20·%20Final%20Year%20CS%20Student&descAlignY=55&descSize=18" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E8ECFB,50:C7D2F0,100:A8B8E8&height=220&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=48&fontColor=1A1A2E&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20·%20Full-Stack%20&%20AI/ML%20·%20Final%20Year%20CS%20Student&descAlignY=55&descSize=18&descColor=1A1A2E" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20·%20Full-Stack%20&%20AI/ML%20·%20Final%20Year%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+</picture>
 
 <img src="https://komarev.com/ghpvc/?username=coder-adi6&label=Profile+Views&color=302b63&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/coder-adi6?label=Followers&style=for-the-badge&color=0A66C2" alt="followers"/>
@@ -84,6 +88,17 @@ class Aditya:
 
 ### 📌 Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/coder-adi6/task-manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-adi6&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-adi6&repo=AI-Powered-Regulatory-Compliance-Checker-for-Contracts&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<a href="https://github.com/coder-adi6/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-adi6&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%">
@@ -144,8 +159,16 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=coder-adi6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Aditya's GitHub stats" height="165" />
-<img src="https://streak-stats.demolab.com?user=coder-adi6&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=coder-adi6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=coder-adi6&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coder-adi6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Aditya's GitHub stats" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=coder-adi6&theme=tokyonight&hide_border=true&background=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=coder-adi6&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=coder-adi6&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
+</picture>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-adi6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
 
