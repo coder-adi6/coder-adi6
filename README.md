@@ -78,6 +78,34 @@ class Aditya:
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,vscode&theme=dark" />
 
+<br/><br/>
+
+<table>
+<tr><td>
+
+`Python`
+![](https://progress-bar.xyz/90/?title=&width=180&color=A972FF&suffix=)
+
+`React / JS`
+![](https://progress-bar.xyz/80/?title=&width=180&color=61DAFB&suffix=)
+
+`Django`
+![](https://progress-bar.xyz/85/?title=&width=180&color=44B78B&suffix=)
+
+</td><td>
+
+`SQL / PostgreSQL`
+![](https://progress-bar.xyz/75/?title=&width=180&color=4169E1&suffix=)
+
+`NLP / ML`
+![](https://progress-bar.xyz/70/?title=&width=180&color=F7931E&suffix=)
+
+`Docker`
+![](https://progress-bar.xyz/65/?title=&width=180&color=2496ED&suffix=)
+
+</td></tr>
+</table>
+
 </div>
 
 ---
@@ -101,6 +129,10 @@ class Aditya:
 
 **🗂 [Task Manager](https://github.com/coder-adi6/task-manager)**
 
+![Stars](https://img.shields.io/github/stars/coder-adi6/task-manager?style=flat-square&color=A972FF)
+![Forks](https://img.shields.io/github/forks/coder-adi6/task-manager?style=flat-square&color=302B63)
+![Last Commit](https://img.shields.io/github/last-commit/coder-adi6/task-manager?style=flat-square&color=0A66C2)
+
 Full-stack task management app with JWT auth, project & task CRUD, and a Docker Compose setup for one-command spin-up.
 
 `Django` `React` `PostgreSQL` `Docker`
@@ -109,6 +141,10 @@ Full-stack task management app with JWT auth, project & task CRUD, and a Docker 
 <td width="50%">
 
 **📄 [AI Compliance Checker](https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts)**
+
+![Stars](https://img.shields.io/github/stars/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts?style=flat-square&color=A972FF)
+![Forks](https://img.shields.io/github/forks/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts?style=flat-square&color=302B63)
+![Last Commit](https://img.shields.io/github/last-commit/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts?style=flat-square&color=0A66C2)
 
 AI-driven system that analyses contracts for GDPR, HIPAA, CCPA & SOX compliance with automated severity scoring.
 
@@ -151,7 +187,7 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 <div align="center">
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=coder-adi6&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" width="90%"/>
+<img src="https://github-trophies.vercel.app/?username=coder-adi6&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" width="90%"/>
 
 <br/>
 
