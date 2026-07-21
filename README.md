@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20·%20Full-Stack%20and%20AI-ML%20·%20Final%20Year%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20·%20Full-Stack%20·%20Final%20Year%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=coder-adi6&label=Profile+Views&color=302b63&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/coder-adi6?label=Followers&style=for-the-badge&color=0A66C2" alt="followers"/>
