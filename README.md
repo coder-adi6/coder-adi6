@@ -84,6 +84,15 @@ class Aditya:
 
 ### 📌 Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/coder-adi6/task-manager"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=AI-Powered-Regulatory-Compliance-Checker-for-Contracts&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<a href="https://github.com/coder-adi6/Portfolio"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+
+</div>
+
 <br/>
 
 <table>
@@ -142,14 +151,14 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=coder-adi6&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" width="90%"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=coder-adi6&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" width="90%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=coder-adi6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Aditya's GitHub stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=coder-adi6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Aditya's GitHub stats" height="165" />
 <img src="https://streak-stats.demolab.com?user=coder-adi6&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-adi6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=coder-adi6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-adi6&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="90%"/>
 
