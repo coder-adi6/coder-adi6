@@ -42,7 +42,19 @@ class Aditya:
 - 🏢 Software Developer Intern @ **PenguinApps Lab** — shipped a full-stack Task Manager and contributed UI/UX to a live client product
 - 🤖 Ex–AI/ML Intern @ **Infosys Springboard** — built a production-ready contract compliance checker
 
+<div align="center">
+
+| 🔭 Currently Building | 🌱 Currently Learning | 💬 Ask Me About |
+|:---:|:---:|:---:|
+| Full-stack products with Django + React | Advanced NLP & LLM tooling | Full-stack dev, APIs, NLP |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=25&section=header" width="100%"/>
+
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=15&section=header" width="100%"/>
 
 ### 🛠 Tech Stack
 
@@ -143,6 +155,12 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 ---
 
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+</div>
+
+---
+
 ### 😄 Fun Facts
 
 - ☕ Addicted to **chai** and clean commit messages
@@ -155,6 +173,15 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 <div align="center">
 
 ### 📬 Get in Touch
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aditya-goswami-662581339/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin"/></a>&nbsp;&nbsp;
+<a href="https://coder-adi6.github.io/Portfolio/"><img src="https://skillicons.dev/icons?i=vercel" height="45" alt="portfolio"/></a>&nbsp;&nbsp;
+<a href="mailto:binarptya@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="email"/></a>&nbsp;&nbsp;
+<a href="https://github.com/coder-adi6"><img src="https://skillicons.dev/icons?i=github" height="45" alt="github"/></a>
+</p>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-goswami-662581339/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white)](https://coder-adi6.github.io/Portfolio/)
