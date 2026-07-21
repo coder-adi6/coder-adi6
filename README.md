@@ -85,8 +85,6 @@ class Aditya:
 ### 📌 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/coder-adi6/task-manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-adi6&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-adi6&repo=AI-Powered-Regulatory-Compliance-Checker-for-Contracts&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 <a href="https://github.com/coder-adi6/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-adi6&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
