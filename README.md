@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A972FF&center=true&vCenter=true&width=650&lines=Building+full-stack+products+end-to-end;Shipping+with+Django+%2B+React+%2B+PostgreSQL;Teaching+machines+to+read+contracts+🤖;Always+chasing+the+next+thing+to+break+%26+learn" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A972FF&center=true&vCenter=true&width=650&lines=Building+full-stack+products+end-to-end;Shipping+with+Django+%2B+React+%2B+PostgreSQL;Teaching+machines+to+read+contracts;Always+chasing+the+next+thing+to+break+%26+learn" alt="Typing SVG" />
 
 <br/>
 
