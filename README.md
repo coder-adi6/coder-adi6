@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:0A66C2&height=200&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20·%20Full-Stack%20&%20AI/ML%20·%20Final%20Year%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20·%20Full-Stack%20&%20AI/ML%20·%20Final%20Year%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=coder-adi6&label=Profile+Views&color=302b63&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/coder-adi6?label=Followers&style=for-the-badge&color=0A66C2" alt="followers"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/aditya-goswami-662581339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://coder-adi6.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -10,11 +13,15 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+full-stack+products+end-to-end;Shipping+with+Django+%2B+React+%2B+PostgreSQL;Teaching+machines+to+read+contracts+🤖;Always+chasing+the+next+thing+to+break+%26+learn" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A972FF&center=true&vCenter=true&width=650&lines=Building+full-stack+products+end-to-end;Shipping+with+Django+%2B+React+%2B+PostgreSQL;Teaching+machines+to+read+contracts+🤖;Always+chasing+the+next+thing+to+break+%26+learn" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=30&section=header&text=&fontSize=0" width="100%"/>
 
 ### 🧑‍💻 About Me
 
@@ -42,32 +49,22 @@ class Aditya:
 <div align="center">
 
 **Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,java,c&theme=dark" />
 
 **Web & Frameworks**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,django&theme=dark" />
 
 **AI / ML**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,py&theme=dark" />
+&nbsp;&nbsp;
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 **Tools & Infra**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postgres,vscode&theme=dark" />
 
 </div>
 
@@ -130,12 +127,18 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=coder-adi6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aditya's GitHub stats" height="165" />
-<img src="https://streak-stats.demolab.com?user=coder-adi6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-adi6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-profile-trophy.vercel.app/?username=coder-adi6&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" width="90%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-adi6&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=coder-adi6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Aditya's GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com?user=coder-adi6&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-adi6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-adi6&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="90%"/>
+
 </div>
 
 ---
@@ -163,6 +166,6 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1A1A2E&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
 
 </div>
