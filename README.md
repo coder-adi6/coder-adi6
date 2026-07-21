@@ -1,104 +1,168 @@
-<h1 align="center">Hey, I'm Aditya 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Developer</b> &nbsp;·&nbsp; <b>Full-Stack & AI/ML</b> &nbsp;·&nbsp; <b>Final Year CS Student</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:0A66C2&height=200&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20·%20Full-Stack%20&%20AI/ML%20·%20Final%20Year%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-goswami-662581339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://coder-adi6.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:binarptya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/aditya-goswami-662581339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://coder-adi6.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:binarptya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+full-stack+products+end-to-end;Shipping+with+Django+%2B+React+%2B+PostgreSQL;Teaching+machines+to+read+contracts+🤖;Always+chasing+the+next+thing+to+break+%26+learn" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ### 🧑‍💻 About Me
 
-Final-year Computer Science student who builds things end-to-end — from REST APIs to responsive UIs. I've completed two internships, shipped real products used by real teams, and I'm always chasing the next thing to learn and break.
+I'm a final-year Computer Science student who builds things end-to-end — from REST APIs to responsive UIs. I've completed two internships, shipped real products used by real teams, and I'm always chasing the next thing to learn (and break).
 
-- 🏢 Ex–Software Developer Intern @ **PenguinApps Lab** (shipped a full-stack Task Manager + contributed UI/UX to a live client product)
-- 🤖 Ex–AI/ML Intern @ **Infosys Springboard** (built a production-ready contract compliance checker)
-- 🔭 Currently exploring **TypeScript**, **Next.js**, and **system design**
-- ⚡ Fun fact: I once coded a sine wave generator using an LED display in robotics class 🤖
+```python
+class Aditya:
+    def __init__(self):
+        self.role = "Software Developer"
+        self.focus = ["Full-Stack", "AI/ML"]
+        self.currently = "Final Year CS Student"
+        self.fuel = "☕ chai"
+
+    def debug(self):
+        return "🎧 music on, bugs squashed"
+```
+
+- 🏢 Software Developer Intern @ **PenguinApps Lab** — shipped a full-stack Task Manager and contributed UI/UX to a live client product
+- 🤖 Ex–AI/ML Intern @ **Infosys Springboard** — built a production-ready contract compliance checker
 
 ---
 
 ### 🛠 Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Web & Frameworks**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **AI / ML**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat&logo=openai&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 **Tools & Infra**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| 🗂 **Task Manager** | Full-stack task management app with JWT auth, project & task CRUD, and Docker Compose setup | Django · React · PostgreSQL · Docker | [GitHub](https://github.com/coder-adi6/task-manager) |
-| 📄 **AI Compliance Checker** | AI-driven system that analyses contracts for GDPR, HIPAA, CCPA & SOX compliance with severity scoring | Python · NLP · Supervised Learning | [GitHub](https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts) |
-| 🖥 **Portfolio** | Personal portfolio showcasing my dev journey | React · Vite | [Live](https://coder-adi6.github.io/Portfolio/) |
+<table>
+<tr>
+<td width="50%">
+
+**🗂 [Task Manager](https://github.com/coder-adi6/task-manager)**
+
+Full-stack task management app with JWT auth, project & task CRUD, and a Docker Compose setup for one-command spin-up.
+
+`Django` `React` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%">
+
+**📄 [AI Compliance Checker](https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts)**
+
+AI-driven system that analyses contracts for GDPR, HIPAA, CCPA & SOX compliance with automated severity scoring.
+
+`Python` `NLP` `Supervised Learning`
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**🖥 [Portfolio](https://coder-adi6.github.io/Portfolio/)**
+
+Personal portfolio showcasing my dev journey, projects, and skills — built for speed and clean design.
+
+`React` `Vite`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🏅 Certifications
 
-- ✅ Full Stack Web Development – Physics Wallah
-- ✅ AI Fundamentals & Generative AI – Infosys Springboard
-- ✅ Deep Learning & NLP – Infosys Springboard
-- ✅ Data Science & Computer Vision – Infosys Springboard
-- ✅ Microsoft Mastering GitHub
+<div align="center">
+
+| Certification | Issuer |
+|---|---|
+| Full Stack Web Development | Physics Wallah |
+| AI Fundamentals & Generative AI | Infosys Springboard |
+| Deep Learning & NLP | Infosys Springboard |
+| Data Science & Computer Vision | Infosys Springboard |
+| Mastering GitHub | Microsoft |
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-adi6&show_icons=true&theme=tokyonight" alt="Aditya's GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=coder-adi6&theme=tokyonight" alt="GitHub Streak" height="165" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=coder-adi6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aditya's GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com?user=coder-adi6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-adi6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-adi6&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+</div>
 
 ---
 
 ### 😄 Fun Facts
 
-- Addicted to **chai** and clean commit messages ☕
-- I love gaming 🎮
-- Constantly tweaking my portfolio like it's a code dojo 🎨
-- I debug faster with music on 🎧
+- ☕ Addicted to **chai** and clean commit messages
+- 🎮 I love gaming
+- 🎨 Constantly tweaking my portfolio like it's a code dojo
+- 🎧 I debug faster with music on
 
 ---
+
+<div align="center">
 
 ### 📬 Get in Touch
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/aditya-goswami-662581339/)
-- 🖥 [Portfolio](https://coder-adi6.github.io/Portfolio/)
-- 📧 [binarptya@gmail.com](mailto:binarptya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-goswami-662581339/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white)](https://coder-adi6.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binarptya@gmail.com)
 
----
+<br/>
 
-> _"Code is like humor. When you have to explain it, it's bad."_ – Cory House**
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1A1A2E&height=100&section=footer" width="100%"/>
+
+</div>
