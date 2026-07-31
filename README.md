@@ -110,9 +110,28 @@ flowchart LR
 
 </details>
 
+<details>
+<summary><b>🗺️ What I'm learning next (click to expand)</b></summary>
+<br/>
+
+```mermaid
+timeline
+    title Learning Roadmap
+    Now : Advanced NLP
+        : LLM tooling & agents
+    Next : System design
+        : Scalable backend architecture
+    Later : Cloud deployment (AWS/GCP)
+        : Distributed systems
+```
+
+</details>
+
 <p align="right"><a href="#top">⬆ back to top</a></p>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
+</div>
 
 <a name="stack"></a>
 ## 🛠 Tech Stack
@@ -181,7 +200,9 @@ flowchart LR
 
 <p align="right"><a href="#top">⬆ back to top</a></p>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
+</div>
 
 <a name="projects"></a>
 ## 📌 Featured Projects
@@ -236,7 +257,9 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 <p align="right"><a href="#top">⬆ back to top</a></p>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
+</div>
 
 <a name="certifications"></a>
 ## 🏅 Certifications
@@ -255,7 +278,9 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 <p align="right"><a href="#top">⬆ back to top</a></p>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
+</div>
 
 <a name="stats"></a>
 ## 📊 GitHub Stats
@@ -275,6 +300,10 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-adi6&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="90%"/>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/coder-adi6/coder-adi6/output/github-contribution-grid-snake-3d.svg" width="90%" alt="3D contribution calendar"/>
+
 </div>
 
 <details>
@@ -292,13 +321,17 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 <p align="right"><a href="#top">⬆ back to top</a></p>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
+</div>
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
+</div>
 
 ## 😄 Fun Facts
 
@@ -307,7 +340,29 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 - 🎨 Constantly tweaking my portfolio like it's a code dojo
 - 🎧 I debug faster with music on
 
----
+<div align="center">
+
+<br/>
+
+<img src="https://readme-jokes.vercel.app/api" alt="a random dev joke" width="80%"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
+</div>
+
+<div align="center">
+
+### 🤝 Let's Collaborate
+
+Open to internships, open-source contributions, and interesting full-stack or NLP side projects. If you're building something and want an extra pair of hands, reach out below.
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
+</div>
 
 <a name="contact"></a>
 <div align="center">
