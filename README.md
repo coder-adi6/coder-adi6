@@ -4,12 +4,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=coder-adi6&label=Profile+Views&color=302b63&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/coder-adi6?label=Followers&style=for-the-badge&color=0A66C2" alt="followers"/>
+<img src="https://img.shields.io/badge/Open%20to-Work-A972FF?style=for-the-badge" alt="open to work"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/aditya-goswami-662581339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://coder-adi6.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:binarptya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/coder-adi6"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -21,11 +23,15 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=30&section=header&text=&fontSize=0" width="100%"/>
+<br/>
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 I'm a final-year Computer Science student who builds things end-to-end — from REST APIs to responsive UIs. I've completed two internships, shipped real products used by real teams, and I'm always chasing the next thing to learn (and break).
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```python
 class Aditya:
@@ -37,26 +43,42 @@ class Aditya:
 
     def debug(self):
         return "🎧 music on, bugs squashed"
+
+    def ship(self, idea):
+        return f"{idea} → production 🚀"
 ```
 
-- 🏢 Software Developer Intern @ **PenguinApps Lab** — shipped a full-stack Task Manager and contributed UI/UX to a live client product
-- 🤖 Ex–AI/ML Intern @ **Infosys Springboard** — built a production-ready contract compliance checker
+</td>
+<td width="45%" valign="top">
 
-<div align="center">
+| 🔭 Building | Full-stack products with Django + React |
+|:---|:---|
+| 🌱 Learning | Advanced NLP & LLM tooling |
+| 💬 Ask me about | Full-stack dev, APIs, NLP |
+| ⚡ Fun fact | I debug faster with music on |
 
-| 🔭 Currently Building | 🌱 Currently Learning | 💬 Ask Me About |
-|:---:|:---:|:---:|
-| Full-stack products with Django + React | Advanced NLP & LLM tooling | Full-stack dev, APIs, NLP |
+</td>
+</tr>
+</table>
 
-</div>
+<details>
+<summary><b>🧭 Experience timeline (click to expand)</b></summary>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=25&section=header" width="100%"/>
+```text
+2024 — Software Developer Intern @ PenguinApps Lab
+        └─ Shipped a full-stack Task Manager
+        └─ Contributed UI/UX to a live client product
+
+2023 — AI/ML Intern @ Infosys Springboard
+        └─ Built a production-ready contract compliance checker
+```
+
+</details>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=15&section=header" width="100%"/>
-
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -78,10 +100,13 @@ class Aditya:
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,vscode&theme=dark" />
 
-<br/><br/>
+</div>
 
+<br/>
+
+<div align="center">
 <table>
-<tr><td>
+<tr><td valign="top">
 
 `Python`
 ![](https://progress-bar.xyz/90/?title=&width=180&color=A972FF&suffix=)
@@ -92,7 +117,7 @@ class Aditya:
 `Django`
 ![](https://progress-bar.xyz/85/?title=&width=180&color=44B78B&suffix=)
 
-</td><td>
+</td><td valign="top">
 
 `SQL / PostgreSQL`
 ![](https://progress-bar.xyz/75/?title=&width=180&color=4169E1&suffix=)
@@ -105,61 +130,55 @@ class Aditya:
 
 </td></tr>
 </table>
-
 </div>
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/coder-adi6/task-manager"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=AI-Powered-Regulatory-Compliance-Checker-for-Contracts&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-<a href="https://github.com/coder-adi6/Portfolio"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-
-</div>
-
-<br/>
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🗂 [Task Manager](https://github.com/coder-adi6/task-manager)**
-
-![Stars](https://img.shields.io/github/stars/coder-adi6/task-manager?style=flat-square&color=A972FF)
-![Forks](https://img.shields.io/github/forks/coder-adi6/task-manager?style=flat-square&color=302B63)
-![Last Commit](https://img.shields.io/github/last-commit/coder-adi6/task-manager?style=flat-square&color=0A66C2)
+### 🗂 [Task Manager](https://github.com/coder-adi6/task-manager)
 
 Full-stack task management app with JWT auth, project & task CRUD, and a Docker Compose setup for one-command spin-up.
 
 `Django` `React` `PostgreSQL` `Docker`
 
+![Stars](https://img.shields.io/github/stars/coder-adi6/task-manager?style=flat-square&color=A972FF)
+![Forks](https://img.shields.io/github/forks/coder-adi6/task-manager?style=flat-square&color=302B63)
+![Last Commit](https://img.shields.io/github/last-commit/coder-adi6/task-manager?style=flat-square&color=0A66C2)
+
+<a href="https://github.com/coder-adi6/task-manager"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/></a>
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**📄 [AI Compliance Checker](https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts)**
-
-![Stars](https://img.shields.io/github/stars/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts?style=flat-square&color=A972FF)
-![Forks](https://img.shields.io/github/forks/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts?style=flat-square&color=302B63)
-![Last Commit](https://img.shields.io/github/last-commit/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts?style=flat-square&color=0A66C2)
+### 📄 [AI Compliance Checker](https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts)
 
 AI-driven system that analyses contracts for GDPR, HIPAA, CCPA & SOX compliance with automated severity scoring.
 
 `Python` `NLP` `Supervised Learning`
 
+![Stars](https://img.shields.io/github/stars/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts?style=flat-square&color=A972FF)
+![Forks](https://img.shields.io/github/forks/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts?style=flat-square&color=302B63)
+![Last Commit](https://img.shields.io/github/last-commit/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts?style=flat-square&color=0A66C2)
+
+<a href="https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=AI-Powered-Regulatory-Compliance-Checker-for-Contracts&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/></a>
+
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" valign="top">
 
-**🖥 [Portfolio](https://coder-adi6.github.io/Portfolio/)**
+### 🖥 [Portfolio](https://coder-adi6.github.io/Portfolio/)
 
 Personal portfolio showcasing my dev journey, projects, and skills — built for speed and clean design.
 
 `React` `Vite`
+
+<a href="https://github.com/coder-adi6/Portfolio"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%"/></a>
 
 </td>
 </tr>
@@ -167,27 +186,27 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 ---
 
-### 🏅 Certifications
+## 🏅 Certifications
 
 <div align="center">
 
 | Certification | Issuer |
-|---|---|
-| Full Stack Web Development | Physics Wallah |
-| AI Fundamentals & Generative AI | Infosys Springboard |
-| Deep Learning & NLP | Infosys Springboard |
-| Data Science & Computer Vision | Infosys Springboard |
-| Mastering GitHub | Microsoft |
+|:---|:---|
+| 🌐 Full Stack Web Development | Physics Wallah |
+| 🤖 AI Fundamentals & Generative AI | Infosys Springboard |
+| 🧠 Deep Learning & NLP | Infosys Springboard |
+| 📊 Data Science & Computer Vision | Infosys Springboard |
+| 🐙 Mastering GitHub | Microsoft |
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=coder-adi6&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" width="90%"/>
+<img src="https://github-trophies.vercel.app/?username=coder-adi6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" width="90%"/>
 
 <br/>
 
@@ -196,9 +215,22 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=coder-adi6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
 
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-adi6&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="90%"/>
 
 </div>
+
+<details>
+<summary align="center"><b>📈 More metrics (click to expand)</b></summary>
+<br/>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder-adi6&theme=tokyonight" alt="summary stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder-adi6&theme=tokyonight&utcOffset=8" alt="productive time"/>
+
+</div>
+</details>
 
 ---
 
@@ -208,7 +240,7 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 ---
 
-### 😄 Fun Facts
+## 😄 Fun Facts
 
 - ☕ Addicted to **chai** and clean commit messages
 - 🎮 I love gaming
@@ -219,7 +251,7 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 <div align="center">
 
-### 📬 Get in Touch
+## 📬 Get in Touch
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aditya-goswami-662581339/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin"/></a>&nbsp;&nbsp;
@@ -227,12 +259,6 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 <a href="mailto:binarptya@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="email"/></a>&nbsp;&nbsp;
 <a href="https://github.com/coder-adi6"><img src="https://skillicons.dev/icons?i=github" height="45" alt="github"/></a>
 </p>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-goswami-662581339/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white)](https://coder-adi6.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binarptya@gmail.com)
 
 <br/>
 
