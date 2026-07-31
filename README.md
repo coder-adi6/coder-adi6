@@ -67,7 +67,7 @@ class Aditya:
 | 🔭 Building | Full-stack products with Django + React |
 |:---|:---|
 | 🌱 Learning | Advanced NLP & LLM tooling |
-| 💬 Ask me about | Full-stack dev, APIs, NLP |
+| 💬 Ask me about | Full-stack dev, APIs |
 | ⚡ Fun fact | I debug faster with music on |
 
 </td>
@@ -81,7 +81,7 @@ class Aditya:
 ```text
 2024 — Software Developer Intern @ PenguinApps Lab
         └─ Shipped a full-stack Task Manager
-        └─ Contributed UI/UX to a live client product
+        └─ Contributing UI/UX to a live client product
 
 2023 — AI/ML Intern @ Infosys Springboard
         └─ Built a production-ready contract compliance checker
@@ -106,23 +106,6 @@ flowchart LR
 
     style A fill:#0F0C29,stroke:#A972FF,color:#fff
     style H fill:#302B63,stroke:#A972FF,color:#fff
-```
-
-</details>
-
-<details>
-<summary><b>🗺️ What I'm learning next (click to expand)</b></summary>
-<br/>
-
-```mermaid
-timeline
-    title Learning Roadmap
-    Now : Advanced NLP
-        : LLM tooling & agents
-    Next : System design
-        : Scalable backend architecture
-    Later : Cloud deployment (AWS/GCP)
-        : Distributed systems
 ```
 
 </details>
@@ -356,7 +339,7 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 ### 🤝 Let's Collaborate
 
-Open to internships, open-source contributions, and interesting full-stack or NLP side projects. If you're building something and want an extra pair of hands, reach out below.
+Open to internships, open-source contributions, and interesting full-stack side projects. If you're building something and want an extra pair of hands, reach out below.
 
 </div>
 
