@@ -79,11 +79,11 @@ class Aditya:
 <br/>
 
 ```text
-2024 — Software Developer Intern @ PenguinApps Lab
+2026 — Software Developer Intern @ PenguinApps Lab
         └─ Shipped a full-stack Task Manager
         └─ Contributed UI/UX to a live client product
 
-2023 — AI/ML Intern @ Infosys Springboard
+2025 — AI/ML Intern @ Infosys Springboard
         └─ Built a production-ready contract compliance checker
 ```
 
