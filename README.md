@@ -356,7 +356,7 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 ### 🤝 Let's Collaborate
 
-Open to internships, open-source contributions, and interesting full-stack or NLP side projects. If you're building something and want an extra pair of hands, reach out below.
+Open to internships, open-source contributions, and interesting full-stack side projects. If you're building something and want an extra pair of hands, reach out below.
 
 </div>
 
