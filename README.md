@@ -79,11 +79,11 @@ class Aditya:
 <br/>
 
 ```text
-2026 — Software Developer Intern @ PenguinApps Lab
+2024 — Software Developer Intern @ PenguinApps Lab
         └─ Shipped a full-stack Task Manager
         └─ Contributed UI/UX to a live client product
 
-2025 — AI/ML Intern @ Infosys Springboard
+2023 — AI/ML Intern @ Infosys Springboard
         └─ Built a production-ready contract compliance checker
 ```
 
@@ -302,7 +302,7 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/coder-adi6/coder-adi6/output/github-contribution-grid-snake-3d.svg" width="90%" alt="3D contribution calendar"/>
+<img src="https://ghchart.rshah.org/A972FF/coder-adi6" width="90%" alt="contribution heatmap"/>
 
 </div>
 
@@ -356,7 +356,7 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 ### 🤝 Let's Collaborate
 
-Open to internships, open-source contributions, and interesting full-stack side projects. If you're building something and want an extra pair of hands, reach out below.
+Open to internships, open-source contributions, and interesting full-stack or NLP side projects. If you're building something and want an extra pair of hands, reach out below.
 
 </div>
 
