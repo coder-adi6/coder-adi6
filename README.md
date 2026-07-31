@@ -220,7 +220,22 @@ AI-driven system that analyses contracts for GDPR, HIPAA, CCPA & SOX compliance 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### 🚕 [NaariCabs](https://github.com/coder-adi6/NaariCabs)
+
+A women-safety focused cab booking concept, with a landing page and signup flow built for a smooth, trustworthy user experience.
+
+`HTML` `CSS`
+
+![Stars](https://img.shields.io/github/stars/coder-adi6/NaariCabs?style=flat-square&color=A972FF)
+![Forks](https://img.shields.io/github/forks/coder-adi6/NaariCabs?style=flat-square&color=302B63)
+![Last Commit](https://img.shields.io/github/last-commit/coder-adi6/NaariCabs?style=flat-square&color=0A66C2)
+
+<a href="https://github.com/coder-adi6/NaariCabs"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=NaariCabs&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/></a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🖥 [Portfolio](https://portfolio-aditya-05.vercel.app/)
 
@@ -228,7 +243,7 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 `React` `Vite`
 
-<a href="https://github.com/coder-adi6/Portfolio"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%"/></a>
+<a href="https://github.com/coder-adi6/Portfolio"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/></a>
 
 </td>
 </tr>
