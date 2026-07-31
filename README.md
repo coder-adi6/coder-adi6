@@ -1,9 +1,11 @@
+<a name="top"></a>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20·%20Full-Stack%20·%20Final%20Year%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=coder-adi6&label=Profile+Views&color=302b63&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/coder-adi6?label=Followers&style=for-the-badge&color=0A66C2" alt="followers"/>
+<img src="https://img.shields.io/badge/Interning%20@-PenguinApps%20Lab-44B78B?style=for-the-badge" alt="currently interning"/>
 
 <br/><br/>
 
@@ -20,10 +22,22 @@
 
 <img src="https://raw.githubusercontent.com/coder-adi6/coder-adi6/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 
+<br/>
+
+<p align="center">
+<a href="#about">About</a> •
+<a href="#stack">Stack</a> •
+<a href="#projects">Projects</a> •
+<a href="#certifications">Certifications</a> •
+<a href="#stats">Stats</a> •
+<a href="#contact">Contact</a>
+</p>
+
 </div>
 
 <br/>
 
+<a name="about"></a>
 ## 🧑‍💻 About Me
 
 I'm a final-year Computer Science student who builds things end-to-end — from REST APIs to responsive UIs. I've completed two internships, shipped real products used by real teams, and I'm always chasing the next thing to learn (and break).
@@ -75,8 +89,32 @@ class Aditya:
 
 </details>
 
+<details>
+<summary><b>⚙️ How I build things (click to expand)</b></summary>
+<br/>
+
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[🎨 Design & Plan]
+    B --> C[⚛️ Frontend — React]
+    B --> D[🐍 Backend — Django]
+    C --> E[🔗 REST API Integration]
+    D --> E
+    E --> F[🧪 Test]
+    F --> G[🐳 Dockerize]
+    G --> H[🚀 Deploy]
+
+    style A fill:#0F0C29,stroke:#A972FF,color:#fff
+    style H fill:#302B63,stroke:#A972FF,color:#fff
+```
+
+</details>
+
+<p align="right"><a href="#top">⬆ back to top</a></p>
+
 ---
 
+<a name="stack"></a>
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -131,8 +169,21 @@ class Aditya:
 </table>
 </div>
 
+<details>
+<summary align="center"><b>🕸️ Skills radar (click to expand)</b></summary>
+<br/>
+<div align="center">
+
+<img src="https://quickchart.io/chart?width=450&height=300&backgroundColor=%230D1117&c={type:'radar',data:{labels:['Python','React/JS','Django','SQL','NLP/ML','Docker'],datasets:[{label:'Proficiency',data:[90,80,85,75,70,65],backgroundColor:'rgba(169,114,255,0.35)',borderColor:'%23A972FF',pointBackgroundColor:'%23A972FF'}]},options:{plugins:{legend:{display:false}},scales:{r:{angleLines:{color:'%23333'},grid:{color:'%23333'},pointLabels:{color:'%23ffffff'},ticks:{display:false}}}}}" alt="skills radar chart"/>
+
+</div>
+</details>
+
+<p align="right"><a href="#top">⬆ back to top</a></p>
+
 ---
 
+<a name="projects"></a>
 ## 📌 Featured Projects
 
 <table width="100%">
@@ -183,8 +234,11 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 </tr>
 </table>
 
+<p align="right"><a href="#top">⬆ back to top</a></p>
+
 ---
 
+<a name="certifications"></a>
 ## 🏅 Certifications
 
 <div align="center">
@@ -199,8 +253,11 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 </div>
 
+<p align="right"><a href="#top">⬆ back to top</a></p>
+
 ---
 
+<a name="stats"></a>
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -227,9 +284,13 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder-adi6&theme=tokyonight" alt="summary stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder-adi6&theme=tokyonight&utcOffset=8" alt="productive time"/>
+<br/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=coder-adi6&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="language donut chart" height="220"/>
 
 </div>
 </details>
+
+<p align="right"><a href="#top">⬆ back to top</a></p>
 
 ---
 
@@ -248,6 +309,7 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 ---
 
+<a name="contact"></a>
 <div align="center">
 
 ## 📬 Get in Touch
