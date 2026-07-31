@@ -66,7 +66,7 @@ class Aditya:
 
 | 🔭 Building | Full-stack products with Django + React |
 |:---|:---|
-| 🌱 Learning | Advanced NLP & LLM tooling |
+| 🌱 Learning | NLP & LLM tooling |
 | 💬 Ask me about | Full-stack dev, APIs |
 | ⚡ Fun fact | I debug faster with music on |
 
@@ -109,8 +109,6 @@ flowchart LR
 ```
 
 </details>
-
-<p align="right"><a href="#top">⬆ back to top</a></p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
@@ -181,8 +179,6 @@ flowchart LR
 </div>
 </details>
 
-<p align="right"><a href="#top">⬆ back to top</a></p>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
 </div>
@@ -238,8 +234,6 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 </tr>
 </table>
 
-<p align="right"><a href="#top">⬆ back to top</a></p>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
 </div>
@@ -258,8 +252,6 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 | 🐙 Mastering GitHub | Microsoft |
 
 </div>
-
-<p align="right"><a href="#top">⬆ back to top</a></p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
@@ -301,8 +293,6 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 
 </div>
 </details>
-
-<p align="right"><a href="#top">⬆ back to top</a></p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
