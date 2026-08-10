@@ -5,7 +5,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=coder-adi6&label=Profile+Views&color=302b63&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/coder-adi6?label=Followers&style=for-the-badge&color=0A66C2" alt="followers"/>
-<img src="https://img.shields.io/badge/Interning%20@-PenguinApps%20Lab-44B78B?style=for-the-badge" alt="currently interning"/>
 
 <br/><br/>
 
