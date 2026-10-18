@@ -1,40 +1,28 @@
 <a name="top"></a>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20·%20Full-Stack%20·%20Final%20Year%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+# Hey, I'm Aditya 👋
 
-<img src="https://komarev.com/ghpvc/?username=coder-adi6&label=Profile+Views&color=302b63&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/coder-adi6?label=Followers&style=for-the-badge&color=0A66C2" alt="followers"/>
+**Software Developer · Full-Stack · Final Year CS Student**
 
-<br/><br/>
+[LinkedIn](https://www.linkedin.com/in/aditya-goswami-662581339/) •
+[Portfolio](https://portfolio-aditya-05.vercel.app/) •
+[Email](mailto:binarptya@gmail.com) •
+[GitHub](https://github.com/coder-adi6)
 
-<a href="https://www.linkedin.com/in/aditya-goswami-662581339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://portfolio-aditya-05.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:binarptya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/coder-adi6"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A972FF&center=true&vCenter=true&width=650&lines=Building+full-stack+products+end-to-end;Shipping+with+Django+%2B+React+%2B+PostgreSQL;Teaching+machines+to+read+contracts;Always+chasing+the+next+thing+to+break+%26+learn" alt="Typing SVG" />
-
-<br/>
+*Building full-stack products end-to-end · Shipping with Django + React + PostgreSQL · Teaching machines to read contracts*
 
 <img src="https://raw.githubusercontent.com/coder-adi6/coder-adi6/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 
-<br/>
-
-<p align="center">
-<a href="#about">About</a> •
-<a href="#stack">Stack</a> •
-<a href="#projects">Projects</a> •
-<a href="#certifications">Certifications</a> •
-<a href="#stats">Stats</a> •
-<a href="#contact">Contact</a>
-</p>
+[About](#about) •
+[Stack](#stack) •
+[Projects](#projects) •
+[Certifications](#certifications) •
+[Contact](#contact)
 
 </div>
 
-<br/>
+---
 
 <a name="about"></a>
 ## 🧑‍💻 About Me
@@ -63,8 +51,9 @@ class Aditya:
 </td>
 <td width="45%" valign="top">
 
-| 🔭 Building | Full-stack products with Django + React |
+| | |
 |:---|:---|
+| 🔭 Building | Full-stack products with Django + React |
 | 🌱 Learning | NLP & LLM tooling |
 | 💬 Ask me about | Full-stack dev, APIs |
 | ⚡ Fun fact | I debug faster with music on |
@@ -109,78 +98,34 @@ flowchart LR
 
 </details>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
-</div>
+---
 
 <a name="stack"></a>
 ## 🛠 Tech Stack
 
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,java,c&theme=dark" />
-
-**Web & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,django&theme=dark" />
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,py&theme=dark" />
-&nbsp;&nbsp;
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-
-**Tools & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postgres,vscode&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<table>
-<tr><td valign="top">
-
-`Python`
-![](https://progress-bar.xyz/90/?title=&width=180&color=A972FF&suffix=)
-
-`React / JS`
-![](https://progress-bar.xyz/80/?title=&width=180&color=61DAFB&suffix=)
-
-`Django`
-![](https://progress-bar.xyz/85/?title=&width=180&color=44B78B&suffix=)
-
-</td><td valign="top">
-
-`SQL / PostgreSQL`
-![](https://progress-bar.xyz/75/?title=&width=180&color=4169E1&suffix=)
-
-`NLP / ML`
-![](https://progress-bar.xyz/70/?title=&width=180&color=F7931E&suffix=)
-
-`Docker`
-![](https://progress-bar.xyz/65/?title=&width=180&color=2496ED&suffix=)
-
-</td></tr>
-</table>
-</div>
+| | |
+|:---|:---|
+| **Languages** | `Python` `JavaScript` `Java` `C` |
+| **Web & Frameworks** | `HTML` `CSS` `React` `Django` |
+| **AI / ML** | `scikit-learn` `PyTorch` `NLP` |
+| **Tools & Infra** | `Git` `GitHub` `Docker` `PostgreSQL` `VS Code` |
 
 <details>
-<summary align="center"><b>🕸️ Skills radar (click to expand)</b></summary>
+<summary><b>📊 Proficiency (click to expand)</b></summary>
 <br/>
-<div align="center">
 
-<img src="https://quickchart.io/chart?width=450&height=300&backgroundColor=%230D1117&c={type:'radar',data:{labels:['Python','React/JS','Django','SQL','NLP/ML','Docker'],datasets:[{label:'Proficiency',data:[90,80,85,75,70,65],backgroundColor:'rgba(169,114,255,0.35)',borderColor:'%23A972FF',pointBackgroundColor:'%23A972FF'}]},options:{plugins:{legend:{display:false}},scales:{r:{angleLines:{color:'%23333'},grid:{color:'%23333'},pointLabels:{color:'%23ffffff'},ticks:{display:false}}}}}" alt="skills radar chart"/>
+```text
+Python            █████████░  90%
+Django            ████████░░  85%
+React / JS        ████████░░  80%
+SQL / PostgreSQL  ███████░░░  75%
+NLP / ML          ███████░░░  70%
+Docker            ██████░░░░  65%
+```
 
-</div>
 </details>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
-</div>
+---
 
 <a name="projects"></a>
 ## 📌 Featured Projects
@@ -195,12 +140,6 @@ Full-stack task management app with JWT auth, project & task CRUD, and a Docker 
 
 `Django` `React` `PostgreSQL` `Docker`
 
-![Stars](https://img.shields.io/github/stars/coder-adi6/task-manager?style=flat-square&color=A972FF)
-![Forks](https://img.shields.io/github/forks/coder-adi6/task-manager?style=flat-square&color=302B63)
-![Last Commit](https://img.shields.io/github/last-commit/coder-adi6/task-manager?style=flat-square&color=0A66C2)
-
-<a href="https://github.com/coder-adi6/task-manager"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/></a>
-
 </td>
 <td width="50%" valign="top">
 
@@ -209,12 +148,6 @@ Full-stack task management app with JWT auth, project & task CRUD, and a Docker 
 AI-driven system that analyses contracts for GDPR, HIPAA, CCPA & SOX compliance with automated severity scoring.
 
 `Python` `NLP` `Supervised Learning`
-
-![Stars](https://img.shields.io/github/stars/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts?style=flat-square&color=A972FF)
-![Forks](https://img.shields.io/github/forks/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts?style=flat-square&color=302B63)
-![Last Commit](https://img.shields.io/github/last-commit/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts?style=flat-square&color=0A66C2)
-
-<a href="https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=AI-Powered-Regulatory-Compliance-Checker-for-Contracts&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/></a>
 
 </td>
 </tr>
@@ -227,35 +160,23 @@ A women-safety focused cab booking concept, with a landing page and signup flow 
 
 `HTML` `CSS`
 
-![Stars](https://img.shields.io/github/stars/coder-adi6/NaariCabs?style=flat-square&color=A972FF)
-![Forks](https://img.shields.io/github/forks/coder-adi6/NaariCabs?style=flat-square&color=302B63)
-![Last Commit](https://img.shields.io/github/last-commit/coder-adi6/NaariCabs?style=flat-square&color=0A66C2)
-
-<a href="https://github.com/coder-adi6/NaariCabs"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=NaariCabs&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/></a>
-
 </td>
 <td width="50%" valign="top">
 
 ### 🖥 [Portfolio](https://portfolio-aditya-05.vercel.app/)
 
-Personal portfolio showcasing my dev journey, projects, and skills — built for speed and clean design.
+Personal portfolio showcasing my dev journey, projects, and skills — built for speed and clean design. ([source](https://github.com/coder-adi6/Portfolio))
 
 `React` `Vite`
-
-<a href="https://github.com/coder-adi6/Portfolio"><img src="https://github-stats-extended.vercel.app/api/pin/?username=coder-adi6&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/></a>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
-</div>
+---
 
 <a name="certifications"></a>
 ## 🏅 Certifications
-
-<div align="center">
 
 | Certification | Issuer |
 |:---|:---|
@@ -265,60 +186,7 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 | 📊 Data Science & Computer Vision | Infosys Springboard |
 | 🐙 Mastering GitHub | Microsoft |
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
-</div>
-
-<a name="stats"></a>
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=coder-adi6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" width="90%"/>
-
-<br/>
-
-<img src="https://github-stats-extended.vercel.app/api?username=coder-adi6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Aditya's GitHub stats" height="165" />
-<img src="https://streak-stats.demolab.com?user=coder-adi6&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=coder-adi6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-adi6&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="90%"/>
-
-<br/>
-
-<img src="https://ghchart.rshah.org/A972FF/coder-adi6" width="90%" alt="contribution heatmap"/>
-
-</div>
-
-<details>
-<summary align="center"><b>📈 More metrics (click to expand)</b></summary>
-<br/>
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder-adi6&theme=tokyonight" alt="summary stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder-adi6&theme=tokyonight&utcOffset=8" alt="productive time"/>
-<br/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=coder-adi6&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="language donut chart" height="220"/>
-
-</div>
-</details>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
-</div>
+---
 
 ## 😄 Fun Facts
 
@@ -327,49 +195,22 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 - 🎨 Constantly tweaking my portfolio like it's a code dojo
 - 🎧 I debug faster with music on
 
-<div align="center">
-
-<br/>
-
-<img src="https://readme-jokes.vercel.app/api" alt="a random dev joke" width="80%"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
-</div>
-
-<div align="center">
+---
 
 ### 🤝 Let's Collaborate
 
 Open to internships, open-source contributions, and interesting full-stack side projects. If you're building something and want an extra pair of hands, reach out below.
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A972FF,100:302B63&height=3&section=header" width="100%"/>
-</div>
+---
 
 <a name="contact"></a>
-<div align="center">
-
 ## 📬 Get in Touch
 
-<p align="center">
-<a href="https://www.linkedin.com/in/aditya-goswami-662581339/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin"/></a>&nbsp;&nbsp;
-<a href="https://portfolio-aditya-05.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="45" alt="portfolio"/></a>&nbsp;&nbsp;
-<a href="mailto:binarptya@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="email"/></a>&nbsp;&nbsp;
-<a href="https://github.com/coder-adi6"><img src="https://skillicons.dev/icons?i=github" height="45" alt="github"/></a>
-</p>
-
-<br/>
+[LinkedIn](https://www.linkedin.com/in/aditya-goswami-662581339/) •
+[Portfolio](https://portfolio-aditya-05.vercel.app/) •
+[Email](mailto:binarptya@gmail.com) •
+[GitHub](https://github.com/coder-adi6)
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
-
-</div>
 <p align="right"><a href="#top">⬆ back to top</a></p>
