@@ -1,28 +1,34 @@
 <a name="top"></a>
 <div align="center">
 
-# Hey, I'm Aditya 👋
+<img src="assets/header.svg" width="100%" alt="Hey, I'm Aditya — Software Developer, Full-Stack, Final Year CS Student"/>
 
-**Software Developer · Full-Stack · Final Year CS Student**
+<br/><br/>
 
-[LinkedIn](https://www.linkedin.com/in/aditya-goswami-662581339/) •
-[Portfolio](https://portfolio-aditya-05.vercel.app/) •
-[Email](mailto:binarptya@gmail.com) •
-[GitHub](https://github.com/coder-adi6)
+<img src="assets/typing.svg" width="800" alt="Building full-stack products end-to-end · Shipping with Django + React + PostgreSQL · Teaching machines to read contracts"/>
 
-*Building full-stack products end-to-end · Shipping with Django + React + PostgreSQL · Teaching machines to read contracts*
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/aditya-goswami-662581339/"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"/></a>
+<a href="https://portfolio-aditya-05.vercel.app/"><img src="assets/btn-portfolio.svg" height="42" alt="Portfolio"/></a>
+<a href="mailto:binarptya@gmail.com"><img src="assets/btn-email.svg" height="42" alt="Email"/></a>
+<a href="https://github.com/coder-adi6"><img src="assets/btn-github.svg" height="42" alt="GitHub"/></a>
+
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/coder-adi6/coder-adi6/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 
-[About](#about) •
-[Stack](#stack) •
-[Projects](#projects) •
-[Certifications](#certifications) •
-[Contact](#contact)
+<br/>
+
+<a href="#about">About</a> •
+<a href="#stack">Stack</a> •
+<a href="#projects">Projects</a> •
+<a href="#certifications">Certifications</a> •
+<a href="#contact">Contact</a>
 
 </div>
 
----
+<br/>
 
 <a name="about"></a>
 ## 🧑‍💻 About Me
@@ -98,85 +104,47 @@ flowchart LR
 
 </details>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <a name="stack"></a>
 ## 🛠 Tech Stack
 
-| | |
-|:---|:---|
-| **Languages** | `Python` `JavaScript` `Java` `C` |
-| **Web & Frameworks** | `HTML` `CSS` `React` `Django` |
-| **AI / ML** | `scikit-learn` `PyTorch` `NLP` |
-| **Tools & Infra** | `Git` `GitHub` `Docker` `PostgreSQL` `VS Code` |
+<div align="center">
+<img src="assets/stack.svg" width="100%" alt="Tech stack: Python, JavaScript, Java, C; HTML, CSS, React, Django; scikit-learn, PyTorch, NLP; Git, GitHub, Docker, PostgreSQL, VS Code"/>
+<br/><br/>
+<img src="assets/proficiency.svg" width="100%" alt="Skill proficiency: Python 90, Django 85, React/JS 80, SQL 75, NLP/ML 70, Docker 65"/>
+</div>
 
-<details>
-<summary><b>📊 Proficiency (click to expand)</b></summary>
-<br/>
-
-```text
-Python            █████████░  90%
-Django            ████████░░  85%
-React / JS        ████████░░  80%
-SQL / PostgreSQL  ███████░░░  75%
-NLP / ML          ███████░░░  70%
-Docker            ██████░░░░  65%
-```
-
-</details>
-
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <a name="projects"></a>
 ## 📌 Featured Projects
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🗂 [Task Manager](https://github.com/coder-adi6/task-manager)
-
-Full-stack task management app with JWT auth, project & task CRUD, and a Docker Compose setup for one-command spin-up.
-
-`Django` `React` `PostgreSQL` `Docker`
-
+<td width="50%" align="center">
+<a href="https://github.com/coder-adi6/task-manager"><img src="assets/card-task-manager.svg" width="100%" alt="Task Manager"/></a>
 </td>
-<td width="50%" valign="top">
-
-### 📄 [AI Compliance Checker](https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts)
-
-AI-driven system that analyses contracts for GDPR, HIPAA, CCPA & SOX compliance with automated severity scoring.
-
-`Python` `NLP` `Supervised Learning`
-
+<td width="50%" align="center">
+<a href="https://github.com/coder-adi6/AI-Powered-Regulatory-Compliance-Checker-for-Contracts"><img src="assets/card-compliance-checker.svg" width="100%" alt="AI Compliance Checker"/></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🚕 [NaariCabs](https://github.com/coder-adi6/NaariCabs)
-
-A women-safety focused cab booking concept, with a landing page and signup flow built for a smooth, trustworthy user experience.
-
-`HTML` `CSS`
-
+<td width="50%" align="center">
+<a href="https://github.com/coder-adi6/NaariCabs"><img src="assets/card-naaricabs.svg" width="100%" alt="NaariCabs"/></a>
 </td>
-<td width="50%" valign="top">
-
-### 🖥 [Portfolio](https://portfolio-aditya-05.vercel.app/)
-
-Personal portfolio showcasing my dev journey, projects, and skills — built for speed and clean design. ([source](https://github.com/coder-adi6/Portfolio))
-
-`React` `Vite`
-
+<td width="50%" align="center">
+<a href="https://portfolio-aditya-05.vercel.app/"><img src="assets/card-portfolio.svg" width="100%" alt="Portfolio"/></a>
 </td>
 </tr>
 </table>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <a name="certifications"></a>
 ## 🏅 Certifications
+
+<div align="center">
 
 | Certification | Issuer |
 |:---|:---|
@@ -186,7 +154,9 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 | 📊 Data Science & Computer Vision | Infosys Springboard |
 | 🐙 Mastering GitHub | Microsoft |
 
----
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 😄 Fun Facts
 
@@ -195,22 +165,33 @@ Personal portfolio showcasing my dev journey, projects, and skills — built for
 - 🎨 Constantly tweaking my portfolio like it's a code dojo
 - 🎧 I debug faster with music on
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+<div align="center">
 
 ### 🤝 Let's Collaborate
 
-Open to internships, open-source contributions, and interesting full-stack side projects. If you're building something and want an extra pair of hands, reach out below.
+Open to internships, open-source contributions, and interesting full-stack side projects.<br/>
+If you're building something and want an extra pair of hands, reach out below.
 
----
+</div>
 
 <a name="contact"></a>
+<div align="center">
+
 ## 📬 Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/aditya-goswami-662581339/) •
-[Portfolio](https://portfolio-aditya-05.vercel.app/) •
-[Email](mailto:binarptya@gmail.com) •
-[GitHub](https://github.com/coder-adi6)
+<a href="https://www.linkedin.com/in/aditya-goswami-662581339/"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"/></a>
+<a href="https://portfolio-aditya-05.vercel.app/"><img src="assets/btn-portfolio.svg" height="42" alt="Portfolio"/></a>
+<a href="mailto:binarptya@gmail.com"><img src="assets/btn-email.svg" height="42" alt="Email"/></a>
+<a href="https://github.com/coder-adi6"><img src="assets/btn-github.svg" height="42" alt="GitHub"/></a>
+
+<br/><br/>
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
+
+</div>
 
 <p align="right"><a href="#top">⬆ back to top</a></p>
