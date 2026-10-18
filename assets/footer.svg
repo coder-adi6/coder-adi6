@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="Thanks for stopping by">
+<defs>
+  <linearGradient id="w1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A972FF" stop-opacity="0.55"/><stop offset="1" stop-color="#302B63"/></linearGradient>
+  <linearGradient id="w2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#302B63" stop-opacity="0.9"/><stop offset="1" stop-color="#0F0C29"/></linearGradient>
+  <linearGradient id="w3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#24243E"/><stop offset="1" stop-color="#0F0C29"/></linearGradient>
+</defs>
+<path fill="url(#w1)" d="M0 60 Q125 20 250 60 T500 60 T750 60 T1000 60 T1250 60 T1500 60 T1750 60 T2000 60 V150 H0 Z">
+  <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="9s" repeatCount="indefinite"/>
+</path>
+<path fill="url(#w2)" d="M0 75 Q125 40 250 75 T500 75 T750 75 T1000 75 T1250 75 T1500 75 T1750 75 T2000 75 V150 H0 Z">
+  <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="12s" repeatCount="indefinite"/>
+</path>
+<path fill="url(#w3)" d="M0 92 Q125 62 250 92 T500 92 T750 92 T1000 92 T1250 92 T1500 92 T1750 92 T2000 92 V150 H0 Z">
+  <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="16s" repeatCount="indefinite"/>
+</path>
+<text x="500" y="125" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="17" letter-spacing="3" fill="#d6ccff">THANKS FOR STOPPING BY ✦</text>
+</svg>

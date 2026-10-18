@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220" role="img" aria-label="📄  AI Compliance Checker">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#1a1540"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F7931E"/><stop offset="1" stop-color="#F7931E" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="478" height="218" rx="16" fill="url(#bg)" stroke="#302B63" stroke-width="2"/>
+<rect x="1" y="1" width="478" height="6" rx="3" fill="url(#bar)"/>
+<text x="32" y="54" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#ffffff">📄  AI Compliance Checker</text>
+<text x="32" y="92" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#b8b3d9">AI-driven system that analyses contracts for</text>
+<text x="32" y="116" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#b8b3d9">GDPR, HIPAA, CCPA &amp; SOX compliance with</text>
+<text x="32" y="140" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#b8b3d9">automated severity scoring.</text>
+<rect x="32" y="168" width="72" height="28" rx="14" fill="#F7931E" fill-opacity="0.14" stroke="#F7931E" stroke-opacity="0.7"/>
+<text x="68.0" y="187" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#ece7ff">Python</text>
+<rect x="114" y="168" width="49" height="28" rx="14" fill="#F7931E" fill-opacity="0.14" stroke="#F7931E" stroke-opacity="0.7"/>
+<text x="138.5" y="187" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#ece7ff">NLP</text>
+<rect x="173" y="168" width="174" height="28" rx="14" fill="#F7931E" fill-opacity="0.14" stroke="#F7931E" stroke-opacity="0.7"/>
+<text x="260.0" y="187" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#ece7ff">Supervised Learning</text>
+<rect x="1" y="1" width="478" height="218" rx="16" fill="none" stroke="#F7931E" stroke-width="2.5" stroke-linecap="round" pathLength="1000" stroke-dasharray="110 890">
+  <animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="6s" repeatCount="indefinite"/>
+</rect>
+</svg>

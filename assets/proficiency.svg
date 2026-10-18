@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Skill proficiency">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#171335"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="218" rx="18" fill="url(#bg)" stroke="#302B63" stroke-width="2"/>
+<text x="40" y="57" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ece7ff">Python</text>
+<rect x="190" y="46" width="220" height="12" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="190" y="46" width="198" height="12" rx="6" fill="#A972FF"><animate attributeName="width" from="0" to="198" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1"/></rect>
+<text x="424" y="57" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#A972FF">90%</text>
+<text x="40" y="115" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ece7ff">Django</text>
+<rect x="190" y="104" width="220" height="12" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="190" y="104" width="187" height="12" rx="6" fill="#44B78B"><animate attributeName="width" from="0" to="187" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1"/></rect>
+<text x="424" y="115" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#44B78B">85%</text>
+<text x="40" y="173" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ece7ff">React / JS</text>
+<rect x="190" y="162" width="220" height="12" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="190" y="162" width="176" height="12" rx="6" fill="#61DAFB"><animate attributeName="width" from="0" to="176" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1"/></rect>
+<text x="424" y="173" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#61DAFB">80%</text>
+<text x="520" y="57" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ece7ff">SQL / PostgreSQL</text>
+<rect x="670" y="46" width="220" height="12" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="670" y="46" width="165" height="12" rx="6" fill="#4169E1"><animate attributeName="width" from="0" to="165" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1"/></rect>
+<text x="904" y="57" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#4169E1">75%</text>
+<text x="520" y="115" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ece7ff">NLP / ML</text>
+<rect x="670" y="104" width="220" height="12" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="670" y="104" width="154" height="12" rx="6" fill="#F7931E"><animate attributeName="width" from="0" to="154" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1"/></rect>
+<text x="904" y="115" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#F7931E">70%</text>
+<text x="520" y="173" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ece7ff">Docker</text>
+<rect x="670" y="162" width="220" height="12" rx="6" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="670" y="162" width="143" height="12" rx="6" fill="#2496ED"><animate attributeName="width" from="0" to="143" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1"/></rect>
+<text x="904" y="173" font-family="Consolas, Menlo, Courier New, monospace" font-size="14" fill="#2496ED">65%</text>
+</svg>

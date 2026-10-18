@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50" role="img" aria-label="Building full-stack products end-to-end / Shipping with Django + React + PostgreSQL / Teaching machines to read contracts / Always chasing the next thing to break &amp; learn">
+<defs>
+  <clipPath id="c0"><rect x="164" y="0" width="0" height="50">
+    <animate attributeName="width" values="0;472;472;0;0" keyTimes="0;0.1;0.22;0.25;1" dur="16s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <clipPath id="c1"><rect x="152" y="0" width="0" height="50">
+    <animate attributeName="width" values="0;0;496;496;0;0" keyTimes="0;0.25;0.35;0.47;0.50;1" dur="16s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <clipPath id="c2"><rect x="188" y="0" width="0" height="50">
+    <animate attributeName="width" values="0;0;424;424;0;0" keyTimes="0;0.5;0.60;0.72;0.75;1" dur="16s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <clipPath id="c3"><rect x="122" y="0" width="0" height="50">
+    <animate attributeName="width" values="0;0;557;557;0" keyTimes="0;0.75;0.85;0.97;1" dur="16s" repeatCount="indefinite"/>
+  </rect></clipPath>
+</defs>
+<rect x="1" y="1" width="798" height="48" rx="24" fill="#0F0C29" stroke="#302B63" stroke-width="2"/>
+<text x="26" y="32" font-family="Consolas, Menlo, Courier New, monospace" font-size="20" fill="#5b5390">&gt;</text>
+  <text x="164" y="32" font-family="Consolas, Menlo, Courier New, monospace" font-size="20" font-weight="700" fill="#A972FF" clip-path="url(#c0)">Building full-stack products end-to-end</text>
+  <text x="152" y="32" font-family="Consolas, Menlo, Courier New, monospace" font-size="20" font-weight="700" fill="#A972FF" clip-path="url(#c1)">Shipping with Django + React + PostgreSQL</text>
+  <text x="188" y="32" font-family="Consolas, Menlo, Courier New, monospace" font-size="20" font-weight="700" fill="#A972FF" clip-path="url(#c2)">Teaching machines to read contracts</text>
+  <text x="122" y="32" font-family="Consolas, Menlo, Courier New, monospace" font-size="20" font-weight="700" fill="#A972FF" clip-path="url(#c3)">Always chasing the next thing to break &amp; learn</text>
+</svg>

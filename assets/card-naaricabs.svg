@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220" role="img" aria-label="🚕  NaariCabs">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#1a1540"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF6AD5"/><stop offset="1" stop-color="#FF6AD5" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="478" height="218" rx="16" fill="url(#bg)" stroke="#302B63" stroke-width="2"/>
+<rect x="1" y="1" width="478" height="6" rx="3" fill="url(#bar)"/>
+<text x="32" y="54" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#ffffff">🚕  NaariCabs</text>
+<text x="32" y="92" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#b8b3d9">A women-safety focused cab booking concept</text>
+<text x="32" y="116" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#b8b3d9">with a landing page and signup flow built</text>
+<text x="32" y="140" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#b8b3d9">for a smooth, trustworthy experience.</text>
+<rect x="32" y="168" width="57" height="28" rx="14" fill="#FF6AD5" fill-opacity="0.14" stroke="#FF6AD5" stroke-opacity="0.7"/>
+<text x="60.5" y="187" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#ece7ff">HTML</text>
+<rect x="99" y="168" width="49" height="28" rx="14" fill="#FF6AD5" fill-opacity="0.14" stroke="#FF6AD5" stroke-opacity="0.7"/>
+<text x="123.5" y="187" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#ece7ff">CSS</text>
+<rect x="1" y="1" width="478" height="218" rx="16" fill="none" stroke="#FF6AD5" stroke-width="2.5" stroke-linecap="round" pathLength="1000" stroke-dasharray="110 890">
+  <animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="6s" repeatCount="indefinite"/>
+</rect>
+</svg>
