@@ -1,7 +1,7 @@
 <a name="top"></a>
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Hey, I'm Aditya — Software Developer, Full-Stack, Final Year CS Student"/>
+<img src="assets/header.svg" width="100%" alt="Hey, I'm Aditya — Software Developer, Full-Stack, CS Undergrad"/>
 
 <br/><br/>
 
