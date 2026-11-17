@@ -30,7 +30,7 @@
       <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
     </text>
   </g>
-  <text x="500" y="182" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="3" fill="#d6ccff">SOFTWARE DEVELOPER  ·  FULL-STACK  ·  FINAL YEAR CS STUDENT
+  <text x="500" y="182" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="3" fill="#d6ccff">SOFTWARE DEVELOPER  ·  FULL-STACK  ·  CS UNDERGRAD
     <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="1s" fill="freeze"/>
   </text>
   <text x="500" y="220" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="2" fill="#9a90d6">Django  ·  React  ·  PostgreSQL  ·  NLP
