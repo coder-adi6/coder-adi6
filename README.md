@@ -33,7 +33,7 @@
 <a name="about"></a>
 ## 🧑‍💻 About Me
 
-I'm a final-year Computer Science student who builds things end-to-end — from REST APIs to responsive UIs. I've completed two internships, shipped real products used by real teams, and I'm always chasing the next thing to learn (and break).
+I'm a Computer Science undergrad who builds things end-to-end — from REST APIs to responsive UIs. I've completed two internships, shipped real products used by real teams, and I'm always chasing the next thing to learn (and break).
 
 <table>
 <tr>
@@ -44,7 +44,7 @@ class Aditya:
     def __init__(self):
         self.role = "Software Developer"
         self.focus = ["Full-Stack", "AI/ML"]
-        self.currently = "Final Year CS Student"
+        self.currently = "CS Undergrad"
         self.fuel = "☕ chai"
 
     def debug(self):
